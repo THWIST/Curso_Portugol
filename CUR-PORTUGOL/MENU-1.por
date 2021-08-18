@@ -24,7 +24,7 @@ programa
 		 }
 
 		escreva("\n"+" criado por wdeybsonjunho@gmail.com")
-		
+		escrea("\n"+" fone para contato (62) 9 9836-3956 ")
 	}
 }
 /* $$$ Portugol Studio $$$ 
