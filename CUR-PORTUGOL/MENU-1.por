@@ -24,7 +24,7 @@ programa
 		 }
 
 		escreva("\n"+" criado por wdeybsonjunho@gmail.com")
-		escrea("\n"+" fone para contato (62) 9 9836-3956 ")
+		escreva("\n"+" fone para contato (62) 9 9836-3956 ")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -32,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 501; 
+ * @POSICAO-CURSOR = 554; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
